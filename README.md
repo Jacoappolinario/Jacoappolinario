@@ -11,9 +11,9 @@ I'm Jacó, Web developer and Software Engineering student.
 - 👨‍💻 My Development Stack: HTML/CSS, Javascript, Node.Js, PostgreSQL
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacoappolinario&show_icons=true&count_private=true&theme=radical&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacoappolinario&show_icons=true&count_private=true&theme=algolia&hide=issues" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacoappolinario&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacoappolinario&layout=compact&theme=algolia" />
 </a>
 
