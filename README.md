@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👩🏻‍💻 Jacó Apolinário
 
-<!--
-**Jacoappolinario/Jacoappolinario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacoapolinario/)](https://www.linkedin.com/in/jacoapolinario/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacoapollinario@gmail.com)](mailto:jacoapollinario@gmail.com)
 
-Here are some ideas to get you started:
+## Hello everyone!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Jacó, Web developer and Software Engineering student.
+
+- 💙 Love it: Mobile and Back-end development
+- 👨‍💻 My Development Stack: HTML/CSS, Javascript, Node.Js, PostgreSQL
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacoappolinario&show_icons=true&count_private=true&theme=radical&hide=issues" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacoappolinario&layout=compact&theme=radical" />
+</a>
+
