@@ -1,11 +1,11 @@
-# 👩🏻‍💻 Jacó Apolinário
+# 👨‍💻 Jacó Apolinário
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacoapolinario/)](https://www.linkedin.com/in/jacoapolinario/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacoapollinario@gmail.com)](mailto:jacoapollinario@gmail.com)
 
 ## Hello everyone!
 
-I'm Jacó, Web developer and Software Engineering student.
+I'm Jacó, Web Developer and Software Engineering student.
 
 - 💙 Love it: Mobile and Back-end development
 - 👨‍💻 My Development Stack: HTML/CSS, Javascript, Node.Js, PostgreSQL
