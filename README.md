@@ -5,10 +5,10 @@
 
 ## Hello everyone!
 
-I'm Jacó, Web Developer and Software Engineering student.
+I'm Jacó, Backend Developer and Software Engineering student.
 
-- 💙 Love it: Mobile and Back-end development
-- 👨‍💻 My Development Stack: HTML/CSS, Javascript, Node.Js, PostgreSQL
+- 💙 Love it: Back-end development
+- 👨‍💻 My development stack at the moment: HTML/CSS, Javascript, typescript, Node.Js, PostgreSQL
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacoappolinario&show_icons=true&count_private=true&theme=algolia&hide=issues" />
