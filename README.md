@@ -8,8 +8,7 @@
 I'm Jacó, Backend Developer and Software Engineering student.
 
 - 💙 Love it: Back-end development
-- 👨‍💻 My development stack at the moment: Node.Js, Javascript, Typescript, Node.Js, PostgreSQL, HTML/CSS
-- 
+- 👨‍💻 My development stack at the moment: Node.Js, Javascript, Typescript, PostgreSQL, HTML/CSS
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacoappolinario&show_icons=true&count_private=true&theme=algolia&hide=issues" />
